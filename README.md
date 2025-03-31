@@ -7,12 +7,12 @@ with the text below, adapted for your network SSID, password and region.
 Add this file to the system config files after flashing MotionEyeOS to 
 your SD card with Balena Etcher.
 
-country=ca
-update_config=1
-ctrl_interface=/var/run/wpa_supplicant
-
-network={
- scan_ssid=1
- ssid="MyNetworkSSID"
- psk="Pa55w0rd1234"
-}
+        country=CA
+        update_config=1
+        ctrl_interface=/var/run/wpa_supplicant
+        
+        network={
+            scan_ssid=1
+            ssid="MyWiFiSSID"
+            psk="S3cr3tp@$$w0rc|"
+        }
