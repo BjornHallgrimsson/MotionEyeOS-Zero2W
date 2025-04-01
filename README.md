@@ -1,5 +1,5 @@
 # MotionEyeOS-Zero2W
- Fork of MotionEyeOS for the Raspberry Pi Zero 2 W
+ Fork of MotionEyeOS for the Raspberry Pi Zero 2 W.
 
 For Wireless configuration, open Notepad++ and set to UNIX mode,
 change "Save as type" to All, and create a wpa_supplicant.conf file 
